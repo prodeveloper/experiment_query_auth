@@ -5,7 +5,8 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.2.*",
-                "jeremykendall/query-auth": "dev-develop"
+                "jeremykendall/query-auth": "dev-develop",
+                "guzzle/guzzle": "3.8.*@dev"
 	},
 	"autoload": {
 		"classmap": [
